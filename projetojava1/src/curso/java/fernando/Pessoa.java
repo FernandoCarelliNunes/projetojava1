@@ -10,7 +10,6 @@ public class Pessoa {
 	private int idade;
 	
 	private Date data_nascimento;
-	private Date data_nascimento2;
 		
 	public Date getData_nascimento() {
 		return data_nascimento;
